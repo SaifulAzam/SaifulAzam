@@ -22,9 +22,9 @@ I believe in the power of interdisciplinary knowledge, using my dual passions to
 
 <br />
 
-### Languages and Tools:
+### Skills:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA2CAMAAAClUqpcAAAAb1BMVEX////gI07eAD/fF0jgIEzeAD3dADbfE0beADr99fbdADL++PnfDUT++/z30tj65un53+Ptl6XlWnPhLFPodYjyuMHwrLb77O7nboPiO13qf5H1xs3xsrzkTWrsjZzjRmTcACTun6zrhpfnZ37bABxKbqflAAACoElEQVRIiZ1W2aKqMAzskpatQKGsgiKe+//feFMUUNnUPCF2SDqZTEvIQYRHCzZCX2lEAu8HZMH8OLr2P6R0pT45rPs6aa50wijlNPgSWOtOUQyefocLTqcBR6nb7K/U7S01lAM9Z32Evcgp3IGwmzKvXeVwGIIrIf4aYh5AKrdbqo0YVz2CC1OPr4TeTOe/wYYKp3ci2sLJJew5bMZ4pSntAW7YY3N+h3mZe4AbGnmRyTMqzivhHODufQSQ804jkIofwSi3RRaMghlxpVzhconjqPISRUvZOCmJ+gCnTIk8DFoA9mD277BMzsQFFzb8vlI9+GnW2v4c5oK0hE06qgrUSI45QEJ3NoLNhbF8bL04qBXg5dPzaHZs/P8TglFDk48UDLhQpquRB3UMnmolYZfV5fAURMlithbh3CZgkD4NW/MofTPgSeqv7lccJBXvMzKFhl1ZyG2X9eheTjfeBKKgd5Db9mMp2plsdw9Iqu1tuuUesNw2IX8PR0i2lXJ2gTmivp2fB/GbJZBXC1ziK7+Yfll6VLK0MVW847SPCh4Y80hfR5Yepd+GDiuQC2569B/HPgQtUSBSoDzzXjnCCvjClQfjYtY/+8JaEUpA6viln2AiNk/VFLl1PJGUpXpo1clI8zIqPMMuLTkN/KEaMcoNIHyzT9F413YJJJeXVSBQzN2kWXwATsqVhBjpU9Mdjrh5i4BHrOqJXj0m89OUksvKnt2TYsEkDqit4zxIjKuU4yjmVkM/o6kZUp9BrG1vjLhNbre+uX86nDxVJKH84q7TKQYDO6xCD1Wf3stK7GNTWjYRR7DYT/PlyGqIJwtIPK3y69atYzW8mlNHWRU6H+ezEeNRLDO7tWLXLRa1SiarrzLd053/nYsfbtW63cv1HwdBH/LRf91CAAAAAElFTkSuQmCC" />
+<img align="left" alt="NestJs" width="26px" src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
