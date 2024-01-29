@@ -1,16 +1,24 @@
 ### Hi there, I'm Saiful Azam 👋 
 
----
-With over 12 years of professional experience, my career goal is to help build complex and multidisciplinary applications using modern technology.
 
-Here are some ideas to get you started:
+👨‍💻 **Full Stack Engineer | DJ | Innovator**
 
-- 🔭 I’m currently looking job...
-- 🤔 I’m looking for help with ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: i am a dj on the side.
+With over 15 years in the tech industry, I've melded the precision of coding with the creativity of music, mastering languages like **JavaScript, Python, PHP, and Java**. My journey has led me through the design and deployment of both web and mobile applications, varying in scale from simple to complex, all powered by modern technology.
+
+## What I Do
+
+- 🌐 **Full Stack Development**: From back-end systems to front-end interfaces, I create seamless user experiences.
+- 📱 **Mobile Application Development**: Leveraging the latest in mobile technology to build engaging and efficient applications.
+- 💡 **Innovation Through Code and Music**: Combining my technical expertise with my passion for music to drive creativity and innovation.
+
+## Philosophy
+
+I believe in the power of interdisciplinary knowledge, using my dual passions to approach problem-solving with a unique perspective. Always learning, I push the boundaries of technology to create solutions that are not just effective but transformative.
+
 ---
+
+🔗 Let's connect and create something amazing together.
+
 
 <br />
 
